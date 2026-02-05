@@ -13,6 +13,7 @@ This repository contains small Python projects for practice.
 ## Purpose
 
 These projects help beginners understand basic Python concepts.
+
 ## Structure
 
 Each Python file represents a standalone mini project.
