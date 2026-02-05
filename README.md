@@ -7,3 +7,7 @@ This repository contains small Python projects for practice.
 - Guess the Number
 - Simple Calculator
 - Countdown Timer
+
+## Purpose
+
+These projects help beginners understand basic Python concepts.
