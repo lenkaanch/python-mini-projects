@@ -1,3 +1,4 @@
+# Guess the Number game
 import random
 
 secret_number = random.randint(1, 10)
