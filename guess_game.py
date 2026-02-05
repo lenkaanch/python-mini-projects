@@ -7,3 +7,5 @@ if guess == secret_number:
     print("Correct!")
 else:
     print("Wrong!")
+# Simple guessing game
+# User tries to guess a random number
