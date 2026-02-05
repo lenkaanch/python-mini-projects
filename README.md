@@ -1,2 +1,3 @@
-# python-mini-projects
-Collection of small Python projects for learning
+# Python Mini Projects
+
+This repository contains small Python projects for practice.
