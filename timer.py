@@ -1,3 +1,5 @@
+# Countdown timer using seconds
+
 import time
 seconds = int(input("Enter time in seconds: "))
 while seconds > 0:
