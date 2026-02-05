@@ -1,3 +1,5 @@
+> Beginner-friendly Python practice projects.
+
 # Python Mini Projects
 
 This repository contains small Python projects for practice.
